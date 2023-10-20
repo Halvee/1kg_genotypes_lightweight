@@ -1,0 +1,10 @@
+# these files are really big and can just be re-downloaded
+data/
+
+# mac-specific
+.DS_Store
+**/.DS_Store
+
+# PLINK log files
+plink_bedbimfam/*.log
+plink_bedbimfam/crossmap/*.log
